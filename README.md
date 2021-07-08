@@ -1,6 +1,7 @@
 # ASN(x) Addon Template
 
 This repository contains the PCB files and other information related to the creation of own addon boards for the **A**VR-based **S**ensor **N**ode with **X**bee, short **ASN(x)**.
+The initial PCB of the addon board is 61.5mm long and 43.5mm wide and has a recess where the radio module connectors are (27.5 x 17mm).
 
 
 ## Contents
