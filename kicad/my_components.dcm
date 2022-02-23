@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BH1750FVI
+D Digital 16bit Serial Output Type Ambient Light Sensor IC
+F https://www.farnell.com/datasheets/1813320.pdf
+$ENDCMP
+#
+$CMP ZMOD4410
+D Gas Sensor Module for TVOC and Indoor Air Quality
+K TVOC, IAQ, eCO2
+F https://www.renesas.com/us/en/document/dst/zmod4410-datasheet
+$ENDCMP
+#
+#End Doc Library
