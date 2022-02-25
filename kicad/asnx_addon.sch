@@ -67,7 +67,7 @@ U 1 1 607E74F4
 P 1300 1750
 F 0 "J1" H 1300 950 50  0000 C CNN
 F 1 "COM/GPIO" V 1400 1700 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x14_P2.54mm_Vertical" H 1300 1750 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x14_P2.54mm_Vertical" H 1300 1750 50  0001 C CNN
 F 3 "~" H 1300 1750 50  0001 C CNN
 	1    1300 1750
 	1    0    0    1   
@@ -78,7 +78,7 @@ U 1 1 607EA810
 P 1600 1650
 F 0 "J3" H 1600 2350 50  0000 C CNN
 F 1 "ADC/GPIO" V 1700 1600 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x14_P2.54mm_Vertical" H 1600 1650 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x14_P2.54mm_Vertical" H 1600 1650 50  0001 C CNN
 F 3 "~" H 1600 1650 50  0001 C CNN
 	1    1600 1650
 	-1   0    0    -1  
