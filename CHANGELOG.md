@@ -4,10 +4,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 However, the major and minor number are used to express the version of the hardware platform while the patch version expresses additional revision of software modules only.
 
-## [dev]
+## [environmental_monitoring]
 ### Added
-### Changed
-### Removed
+- Design and additional information for the environmental monitoring addon
 
 ## [1.0.0] - 2021-07-08
 ### Added
