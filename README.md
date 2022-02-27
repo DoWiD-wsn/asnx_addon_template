@@ -1,7 +1,7 @@
 # ASN(x) Addon -- Environmental Monitoring
 
 This branch contains the PCB files and other information related to the creation of own addon board for the **A**VR-based **S**ensor **N**ode with **X**bee, short **ASN(x)**, for environmental monitoring applications.
-The Addon has a size of xx x xx mm.
+The Addon has a size of about 39 x 43.5 mm.
 It contains an air temperature and relative humidity sensor, a light intensity sensor, and a air quality (gas) sensor.
 
 ![PCB 3D (/media/pcb/asnx_addon-3d.png)](/media/pcb/asnx_addon-3d.png)
