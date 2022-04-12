@@ -7,9 +7,9 @@ All three sensors are supported by corresponding drivers in the ASN(x) library (
 
 In particular, the used sensors are:
 
-* [**SHT30-DIS-B**](docs/datasheets/sht30-dis-b.pdf) air temperature and relative humidity sensor (e.g., available at [Farnell](https://at.farnell.com/sensirion/sht30-dis-b/feuchtigkeits-temperatursensor/dp/2611275))
-* [**BH1750FVI-TR**](docs/datasheets/bh1750fvi-tr.pdf) light intensity sensor (e.g., available at [Farnell](https://at.farnell.com/rohm/bh1750fvi-tr/ambient-light-sensor-i2c-wsof/dp/2421284))
-* [**ZMOD4410AI3V**](docs/datasheets/zmod4410ai3v.pdf) air quality (gas) sensor (e.g., available at [Farnell](https://at.farnell.com/integrated-device-technology/zmod4410ai3v/gassensormodul-tvoc-co2-ndir-5000ppm/dp/3588802))
+* [**SHT30-DIS-B**](docs/datasheets/sht30-dis-b.pdf), short ***SHT***: air temperature and relative humidity sensor (e.g., available at [Farnell](https://at.farnell.com/sensirion/sht30-dis-b/feuchtigkeits-temperatursensor/dp/2611275))
+* [**BH1750FVI-TR**](docs/datasheets/bh1750fvi-tr.pdf), short ***BH***: light intensity sensor (e.g., available at [Farnell](https://at.farnell.com/rohm/bh1750fvi-tr/ambient-light-sensor-i2c-wsof/dp/2421284))
+* [**ZMOD4410AI3V**](docs/datasheets/zmod4410ai3v.pdf), short ***ZMOD***: air quality (gas) sensor (e.g., available at [Farnell](https://at.farnell.com/integrated-device-technology/zmod4410ai3v/gassensormodul-tvoc-co2-ndir-5000ppm/dp/3588802))
 
 
 
