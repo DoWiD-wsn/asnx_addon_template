@@ -3,6 +3,16 @@
 This branch contains the PCB files and other information related to the creation of own addon board for the **A**VR-based **S**ensor **N**ode with **X**bee, short **ASN(x)**, for environmental monitoring applications.
 The Addon has a size of about 39 x 43.5 mm.
 It contains an air temperature and relative humidity sensor, a light intensity sensor, and a air quality (gas) sensor.
+All three sensors are supported by corresponding drivers in the ASN(x) library ([ASNX-LIB](https://github.com/DoWiD-wsn/avr-based_sensor_node/tree/master/source/_asnx_lib_/sensors)).
+
+In particular, the used sensors are:
+
+* [**SHT30-DIS-B**](docs/datasheets/sht30-dis-b.pdf) air temperature and relative humidity sensor (e.g., available at [Farnell](https://at.farnell.com/sensirion/sht30-dis-b/feuchtigkeits-temperatursensor/dp/2611275))
+* [**BH1750FVI-TR**](docs/datasheets/bh1750fvi-tr.pdf) light intensity sensor (e.g., available at [Farnell](https://at.farnell.com/rohm/bh1750fvi-tr/ambient-light-sensor-i2c-wsof/dp/2421284))
+* [**ZMOD4410AI3V**](docs/datasheets/zmod4410ai3v.pdf) air quality (gas) sensor (e.g., available at [Farnell](https://at.farnell.com/integrated-device-technology/zmod4410ai3v/gassensormodul-tvoc-co2-ndir-5000ppm/dp/3588802))
+
+
+
 
 ![PCB 3D (/media/pcb/asnx_addon-3d.png)](/media/pcb/asnx_addon-3d.png)
 
